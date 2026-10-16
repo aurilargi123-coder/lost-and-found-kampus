@@ -10,6 +10,7 @@ Sistem Informasi Pelaporan dan Pencarian Barang Hilang di Lingkungan Kampus.
 ## Deskripsi Singkat
 Aplikasi berbasis web untuk membantu mahasiswa dan civitas akademika melaporkan serta mencari barang yang tercecer/hilang di area kampus (seperti flashdisk, charger, KTM, atau modul praktikum) dengan verifikasi ciri khusus kepemilikan barang.
 
-- Status Proyek: Tahap Pengembangan Fitur Katalog Barang
-   - Status Proyek: Versi Rilis Produksi Utama Kampus
+   - Status Proyek: Versi Stabil dengan Modul Katalog Barang Terintegrasi
    
+
+
