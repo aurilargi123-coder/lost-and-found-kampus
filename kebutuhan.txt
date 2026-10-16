@@ -1,0 +1,12 @@
+Spesifikasi Kebutuhan Sistem Campus Lost & Found:
+
+1. Kebutuhan Fungsional (FR):
+   - Form pelaporan penemuan barang tercecer oleh civitas kampus.
+   - Katalog dan pencarian daftar barang hilang berdasarkan lokasi/kategori.
+   - Form pengajuan klaim barang dengan verifikasi deskripsi ciri khusus.
+   - Validasi status serah terima barang oleh petugas/satpam kampus.
+
+2. Kebutuhan Non-Fungsional (NFR):
+   - Keamanan: Data kepemilikan dan ciri khusus terlindungi agar tidak diklaim sembarangan.
+   - Kecepatan: Waktu proses verifikasi dan pencarian data kurang dari 2 detik.
+   - Aksesibilitas: Tampilan antarmuka responsif dan dapat diakses melalui browser HP maupun laptop.
